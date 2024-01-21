@@ -1,0 +1,1079 @@
+.body :hover {
+	  cursor: url("chef-hat.png"), auto;
+}
+.section1-design2{
+	height: 600px;
+	width:100%;
+}
+.logo-img{
+	position: absolute;
+  top: 19px;
+  left: 78px;
+  cursor: url("psd-html/chef-hat"), auto;
+
+}
+.header-menu{
+	position: absolute;
+  top: 19px;
+  font-size: 18px;
+  margin-left: -114px;
+  cursor: url(D:/WORK/learning/photoshop/psd-html/chef-hat.png);
+}
+.title-here{
+    position: absolute;
+    top: 154px;
+    color: #f8ae02;
+    font-size: 50px;
+    font-family: 'Lobster Two', sans-serif;	
+}
+.text{
+	position: absolute;
+  top: 240px;
+  font-size: 25px;
+    cursor: url(D:/WORK/learning/photoshop/psd-html/chef-hat.png);
+}
+.order-btn{
+		position: absolute;
+      top: 372px;
+    width: 135px;
+}
+
+.section2-title{
+	text-align: center;
+   font-family: 'Lobster Two', sans-serif;
+	font-size: 50px;
+	font-weight: bold;
+}
+.section2-text{
+	text-align: center;
+    /*font-family: 'Marck Script', cursive;*/
+	font-size: 25px;
+	margin-top: 15px;
+}
+.card{
+	width: 20rem; 
+	margin-left: 100px; 
+}
+
+
+.card-text{
+text-align: center;
+}
+.section2-card1, .section2-card2, .section2-card3{
+width:179px;
+ height:179px; 
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 10px;
+ border: none;
+  cursor: url("chef-hat.png"), auto;
+}
+.card-title{
+	 font-family: 'Lobster Two', sans-serif;
+	 font-size: 35px;
+	 text-align: center;
+}
+
+.section3{
+	background-image: url('images/Design3.png');
+	background-repeat: no-repeat;
+	 background-size: 100%; 
+	 height: 2100px;
+}
+
+.section3-design1{
+	margin-left: 140px;
+	margin-top: 139px;
+  
+}
+.section3-title1{
+  position: absolute;
+    color: #f8ae02;
+    font-size: 75px;
+    font-family: 'Marck Script', cursive;
+    margin-top: 157px;
+}
+.section3-text1{
+     position: absolute;
+    font-size: 25px;
+    margin-top: 250px;
+    color: white;
+}
+.order-btn-section3{
+	position: absolute;
+    width: 250px;
+    margin-top: 393px;
+
+}
+.section3-design2{
+	 position: absolute;
+    margin-top: 55px;
+    width: 98%;
+	}
+.section3-tittle2{
+	  position: absolute;
+       margin-top: 88px;
+       /*text-align: center;*/
+    right: 663px;
+    color: #f8ae02;
+    font-size: 75px;
+ font-family: 'Lobster Two', sans-serif;
+}
+.section3-text2{
+     position: absolute;
+      margin-top: 261px;
+    right: 383px;
+    font-size: 25px;
+    text-align: center;
+}
+
+
+.section3-circle1-text1{
+position: absolute;
+    margin-top: 430px;
+    left: 223px;
+    text-align: center;
+     color: #f8ae02;
+    font-size: 35px;
+    border-width: 5px;
+	border-style: solid;
+	border-color: white;
+    border-spacing: 45px;
+    border-radius: 50%;
+    width: 200px;
+  height: 200px;
+  padding-top: 29px;
+ 
+}
+
+/*.card1 :hover{
+ box-shadow: 0 0 10px white; 
+}
+.section3-circle1-text1 :hover {
+	box-shadow: 0px 0px;
+}*/
+
+.section3-circle1-text2{
+position: absolute;
+    margin-top: 430px;
+    left: 509px;
+    text-align: center;
+     color: #f8ae02;
+    font-size: 35px;
+    border-width: 5px;
+	border-style: solid;
+	border-color: white;
+    border-spacing: 45px;
+    border-radius: 50%;
+    width: 200px;
+  height: 200px;
+  padding-top: 29px;
+  
+}
+
+
+.section3-circle1-text3{
+position: absolute;
+    margin-top: 430px;
+    right: 510px;
+    text-align: center;
+     color: #f8ae02;
+    font-size: 35px;
+    border-width: 5px;
+	border-style: solid;
+	border-color: white;
+    border-spacing: 45px;
+    border-radius: 50%;
+    width: 200px;
+  height: 200px;
+  padding-top: 29px;
+}
+.section3-circle1-text4{
+position: absolute;
+    margin-top: 430px;
+    right: 218px;
+    text-align: center;
+     color: #f8ae02;
+    font-size: 35px;
+    border-width: 5px;
+	border-style: solid;
+	border-color: white;
+    border-spacing: 45px;
+    border-radius: 50%;
+    width: 200px;
+  height: 200px;
+  padding-top: 29px;
+ 
+}
+
+.section3-design3{
+	   margin-top: 974px;
+    margin-left: 211px;
+    width: 50%;
+}
+.section3-title3{
+  position: absolute;
+    text-align: center;
+    margin-top: 1006px;
+    left: 119px;
+    color: #f8ae02;
+    font-size: 75px;
+    font-family: 'Lobster Two', sans-serif;
+}
+.section3-text3{
+  position: absolute;
+         margin-top: 1137px;
+    left: 119px;
+    color: #f8ae02;
+    font-size: 25px;
+  /*font-family: 'Lobster Two', sans-serif;*/
+}
+
+
+.order-btn-section4{
+		position: absolute;
+         margin-top: 1263px;
+    left: 119px;
+    width: 250px;
+
+}
+.design4{	 
+	height: 800px;
+}
+.section4-text{
+  position: absolute;
+    margin-top: 286px;
+    left: 379px;
+    text-align: center;
+    font-size: 35px;
+}
+.section4-title	{
+  position: absolute;
+      margin-top: 458px;
+    left: 645px;
+    font-size: 40px;
+  font-family: 'Lobster Two', sans-serif;
+}
+.design5{
+	height: 539px;
+	background-image: url('images/Design5.png');
+	 background-repeat: no-repeat; 
+	 background-size: 100%;
+
+}
+
+.section5-title1{
+  position: absolute;
+      margin-top: 84px;
+    left: 645px;
+    font-size: 80px;
+  font-family: 'Marck Script', cursive;
+  font-weight: bolder;
+}
+.section5-text1{
+	 position: absolute;
+    margin-top: 203px;
+    left: 485px;
+    font-size: 25px;
+}
+ .form-control{
+ 		 position: absolute;
+ 		 left: 486px;
+    margin-top: 308px;
+    width: 25%;
+ }
+ .subscribe-btn-section3{
+ 		 position: absolute;
+ 		 left: 865px;
+    margin-top: 308px
+ }
+
+@media only screen and (max-width: 768px) and (min-width: 450px)  {
+.section1-design2
+{
+	
+    height: 428px;
+    width: 105%;
+}
+.logo-img{
+	position: absolute;
+    top: 10px;
+    left: 28px;
+    height: 30px;
+}
+.header-menu{
+	position: absolute;
+  top: 19px;
+  font-size: 16px;
+  margin-left: -84px;
+}
+.title-here{
+position: absolute;
+    top: 84px;
+    color: #f8ae02;
+    font-size: 45px;
+    font-family: 'Lobster Two', sans-serif;
+    margin-left: -15px;
+
+}
+.text{
+	    position: absolute;
+    top: 156px;
+    font-size: 18px;
+    margin-left: -8px;
+
+}
+.order-btn{
+    position: absolute;
+    top: 271px;
+    width: 164px;
+    margin-left: -11px;
+}
+.section2-text{
+	text-align: center;
+	font-size: 23px;
+	margin-top: 15px;
+}
+.col-md-4{
+	width: 29px;
+}
+.card{
+	width: 16rem; 
+	margin-left: 20px; 
+
+}
+.section2-card1, .section2-card2, .section2-card3{
+	width:179px;
+ 	height:179px; 
+ 	margin-left: 33px;
+}
+.card-text{
+	margin-left: 10px;
+}
+.card-title{
+	    text-align: center;
+}
+
+.section3-title1{
+    position: absolute;
+    color: #f8ae02;
+    font-size: 52px;
+    font-family: 'Marck Script', cursive;
+    margin-top: 74px;
+}
+.section3-text1{
+     position: absolute;
+    font-size: 19px;
+    margin-top: 152px;
+}
+.order-btn-section3{
+	    position: absolute;
+    width: 172px;
+    margin-top: 283px;
+
+}
+.section3-design1{
+	 margin-left: 33px;
+    margin-top: 35px;
+    width: 77%;
+	}
+	.section3-tittle2 {
+       position: absolute;
+    margin-top: 71px;
+    /* text-align: center; */
+    right: 288px;
+    color: #f8ae02;
+    font-size: 55px;
+    font-family: 'Lobster Two', sans-serif;
+}
+.section3-text2 {
+       position: absolute;
+    margin-top: 162px;
+    right: 59px;
+    font-size: 20px;
+}
+.section3-circle1-text1 {
+position: absolute;
+    margin-top: 240px;
+    left: 64px;
+    text-align: center;
+    color: #f8ae02;
+    font-size: 22px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+    /* border-spacing: 0px; */
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+    padding-top: 26px;
+}
+.section3-circle1-text2 {
+    position: absolute;
+     margin-top: 240px;
+     left: 219px;
+    text-align: center;
+    color: #f8ae02;
+     font-size: 22px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+    /* border-spacing: 0px; */
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+    padding-top: 26px;
+}
+.section3-circle1-text3 {
+    position: absolute;
+    margin-top: 240px;
+     right: 250px;
+    text-align: center;
+    color: #f8ae02;
+    font-size: 22px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+    /* border-spacing: 0px; */
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+    padding-top: 26px;
+}
+.section3-circle1-text4 {
+    position: absolute;
+   margin-top: 240px;
+    right: 88px;    
+    text-align: center;
+    color: #f8ae02;
+    font-size: 22px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+    /* border-spacing: 0px; */
+    border-radius: 50%;
+     width: 130px;
+    height: 130px;
+    padding-top: 26px;
+}
+.section3-design3 {
+      margin-top: 464px;
+    margin-left: 108px;
+    width: 55%;
+    }
+    .section3-title3 {
+   margin-top: 463px;
+    position: absolute;
+    text-align: center;
+    left: 93px;
+    font-size: 44px;
+}
+
+.section3-text3 {
+       position: absolute;
+    margin-top: 526px;
+    left: 95px;
+    color: #f8ae02;
+    font-size: 18px;
+     /*font-family: 'Lobster Two', sans-serif*/
+}
+.order-btn-section4 {
+   position: absolute;
+    margin-top: 615px;
+    left: 91px;
+    width: 174px;
+}
+.section3{
+	
+	 height: 1103px;
+	 width: 105%;
+}
+.design4{	 
+	height: 449px;
+	 width: 105%;
+}
+.section4-text{
+position: absolute;
+    margin-top: 146px;
+    left: 58px;
+    text-align: center;
+    font-size: 26px;
+}
+.section4-title	{
+       position: absolute;
+    margin-top: 277px;
+    left: 325px;
+    font-size: 37px;
+    font-family: 'Lobster Two', sans-serif;
+}
+.design5{
+	height: 381px;
+	 width: 105%;
+	background-image: url('D:/WORK/learning/photoshop/psd-html/Design5.png');
+	 background-repeat: no-repeat; 
+	 background-size: 100%;
+}
+.section5-title1 {
+    position: absolute;
+    margin-top: 24px;
+    left: 283px;
+    font-size: 48px;
+    font-family: 'Marck Script', cursive;
+    font-weight: bolder;
+    }
+    .section5-text1 {
+    position: absolute;
+     margin-top: 92px;
+    left: 158px;
+    font-size: 20px;
+}
+.form-control {
+        position: absolute;
+    left: 201px;
+    margin-top: 166px;
+    width: 25%;
+    }
+    .subscribe-btn-section3 {
+         position: absolute;
+    left: 394px;
+    margin-top: 165px;
+    ;
+}
+.footer{
+	width: 105%;
+}
+}
+@media only screen and (max-width: 1024px) and (min-width: 769px)  {
+.section1-design2
+{
+	
+    height: 452px;
+}
+.logo-img{
+	position: absolute;
+    top: 9px;
+    left: 33px;
+}
+.header-menu{
+	position: absolute;
+  top: 19px;
+  font-size: 18px;
+  margin-left: -104px;
+}
+.title-here{
+position: absolute;
+    top: 97px;
+    color: #f8ae02;
+    font-size: 50px;
+    font-family: 'Lobster Two', sans-serif;
+    margin-left: -60px;
+
+}
+.text{
+	    position: absolute;
+    top: 182px;
+    font-size: 20px;
+    margin-left: -60px;
+
+}
+.order-btn{
+		    position: absolute;
+    top: 296px;
+    width: 164px;
+    margin-left: -60px;
+}
+.section2-text{
+	text-align: center;
+	font-size: 23px;
+	margin-top: 15px;
+}
+.col-md-4{
+	width: 29px;
+}
+.card{
+	width: 16rem; 
+	margin-left: 20px; 
+	/*border: none;*/
+}
+.section2-card1, .section2-card2, .section2-card3{
+	width:179px;
+ 	height:179px; 
+ 	margin-left: 33px;
+}
+.card-text{
+	margin-left: 10px;
+}
+.card-title{
+	    text-align: center;
+}
+
+.section3-title1{
+ position: absolute;
+    color: #f8ae02;
+    font-size: 68px;
+    font-family: 'Marck Script', cursive;
+    margin-top: 101px;
+}
+.section3-text1{
+  position: absolute;
+    font-size: 23px;
+    margin-top: 197px;
+}
+.order-btn-section3{
+	position: absolute;
+    width: 250px;
+    margin-top: 361px;
+
+}
+.section3-design1{
+	 /*position: absolute;*/
+     margin-left: 87px;
+    margin-top: 45px;
+	}
+	.section3-tittle2 {
+    position: absolute;
+    margin-top: 101px;
+    /* text-align: center; */
+    right: 398px;
+    color: #f8ae02;
+    font-size: 75px;
+    font-family: 'Lobster Two', sans-serif;
+}
+.section3-text2 {
+    position: absolute;
+    margin-top: 222px;
+    right: 95px;
+    font-size: 25px;
+}
+.section3-circle1-text1 {
+    position: absolute;
+    margin-top: 321px;
+    left: 117px;
+    text-align: center;
+    color: #f8ae02;
+    font-size: 29px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+    /* border-spacing: 0px; */
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+    padding-top: 29px;
+}
+.section3-circle1-text2 {
+    position: absolute;
+    margin-top: 321px;
+     left: 319px;
+    text-align: center;
+    color: #f8ae02;
+    font-size: 29px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+    /* border-spacing: 0px; */
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+    padding-top: 29px;
+}
+.section3-circle1-text3 {
+    position: absolute;
+    margin-top: 321px;
+     right: 330px;
+    text-align: center;
+    color: #f8ae02;
+    font-size: 29px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+    /* border-spacing: 0px; */
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+    padding-top: 29px;
+}
+.section3-circle1-text4 {
+    position: absolute;
+    margin-top: 321px;
+    right: 118px;    text-align: center;
+    color: #f8ae02;
+    font-size: 29px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+    /* border-spacing: 0px; */
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+    padding-top: 29px;
+}
+.section3-design3 {
+    margin-top: 631px;
+    margin-left: 168px;
+    width: 50%;
+    }
+    .section3-title3 {
+    margin-top: 631px;
+    position: absolute;
+    text-align: center;
+    left: 119px;
+    font-size: 55px;
+}
+
+.section3-text3 {
+    position: absolute;
+    margin-top: 720px;
+    left: 119px;
+    color: #f8ae02;
+    font-size: 22px;
+     /*font-family: 'Lobster Two', sans-serif*/
+}.order-btn-section4 {
+    position: absolute;
+    margin-top: 841px;
+    left: 116px;
+    width: 250px;
+}
+.section3{
+	 
+	 height: 1451px;
+}
+.design4{	 
+	height: 550px;
+}
+.section4-text{
+ position: absolute;
+    margin-top: 192px;
+    left: 113px;
+    text-align: center;
+    font-size: 31px;
+}
+.section4-title	{
+    position: absolute;
+    margin-top: 353px;
+    left: 413px;
+    font-size: 40px;
+    font-family: 'Lobster Two', sans-serif;
+}
+.design5{
+	height: 483px;
+	
+	background-image: url('D:/WORK/learning/photoshop/psd-html/Design5.png');
+	 background-repeat: no-repeat; 
+	 background-size: 100%;
+
+}
+.section5-title1 {
+    position: absolute;
+    margin-top: 24px;
+    left: 382px;
+    font-size: 71px;
+    font-family: 'Marck Script', cursive;
+    font-weight: bolder;
+    }
+    .section5-text1 {
+    position: absolute;
+    margin-top: 135px;
+    left: 240px;
+    font-size: 23px;
+}
+.form-control {
+    position: absolute;
+    left: 267px;
+    margin-top: 223px;
+    width: 25%;
+    }
+    .subscribe-btn-section3 {
+      position: absolute;
+    left: 522px;
+    margin-top: 222px;
+}
+}
+
+
+@media only screen and (max-width: 451px) {
+.section1-design2{
+	display: none;
+}
+.header{
+
+	  background-color: #303030;
+	  height: 60px;
+}
+.navbar-toggler{
+	float: inline-end;
+    margin-right: 15px;
+}
+.logo-img{
+	/*position: absolute;*/
+     top: 11px;
+    left: 22px;
+    width: 111px;
+    height: 38px;
+
+  /*display: none;*/
+}
+.header-menu{
+	position: absolute;
+  top: 39px;
+  font-size: 18px;
+  margin-left: 14px;
+}
+
+.title-here{
+	display: none;
+  /*  position: absolute;
+    top: 0px;
+    color: #f8ae02;
+    font-size: 50px;
+    font-family: 'Lobster Two', sans-serif;	*/
+}
+
+.text{
+/*	position: absolute;
+  top: 0px;
+  font-size: 25px;*/
+  display: none;
+}
+.order-btn{
+		/*position: absolute;
+      top: 0px;
+    width: 135px;*/
+    display: none !important;
+}
+
+.section2-title{
+	text-align: center;
+   font-family: 'Lobster Two', sans-serif;
+	font-size: 35px;
+	font-weight: bold;
+	/*margin-right: 100px;*/
+}
+
+.section2-text{
+ text-align: center;
+   line-height: normal;
+	font-size: 20px;
+	margin-top: 15px;
+	/*padding-right: 90px;*/
+}
+.card{
+	width: 100%; 
+	/*margin-left: 0px; */
+	margin-left: auto;
+	margin-right: auto;
+}
+.section2-card1, .section2-card2, .section2-card3{
+width:179px;
+ height:179px; 
+ /*margin-left: 75px;*/
+}
+.card-title{
+	 font-family: 'Lobster Two', sans-serif;
+	 font-size: 30px;
+	 text-align: center;
+	 /*margin-right: 76px;*/
+}
+.card-text{
+	text-align: center;
+	margin-left: 10px;
+	font-size: 20px;
+
+}
+.section3{
+	 
+	 height: 1700px;
+	 background-image: none;
+	 background-color: #303030;
+}
+.section3-design1{
+	    margin-left:50px;
+    margin-top: 10px;
+    width: 70%;
+    /*display: none;*/
+	}
+.section3-title1{
+  position: absolute;
+    color: #f8ae02;
+    font-size: 40px;
+    font-family: 'Marck Script', cursive;
+    margin-top: auto;
+    margin-left: 71px;
+}
+.section3-text1{
+	 position: absolute;
+    font-size: 20px;
+    margin-top: 61px;
+    color: white;
+    text-align: center;
+    left: 30px;
+}
+.order-btn-section3{
+		position: absolute;
+  width: 250px;
+    margin-top: 173px;
+    margin-left:67px;
+}
+.section3-design2{
+	display: none;
+}
+.section3-tittle2{
+	     position: absolute;
+    margin-top: 227px;
+    right: 105px;
+    color: #f8ae02;
+    font-size: 63px;
+    font-family: 'Lobster Two', sans-serif;
+}
+.section3-text2{
+        position: absolute;
+    margin-top: 305px;
+    right: 0px;
+    font-size: 23px;
+    text-align: center;
+}
+.section3-circle1-text1{
+    position: absolute;
+    margin-top: 477px;
+    left: 15px;
+    text-align: center;
+    color: #f8ae02;
+    font-size: 27px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+    border-spacing: 45px;
+    border-radius: 50%;
+    width: 171px;
+    height: 169px;
+    padding-top: 29px;
+}
+.section3-circle1-text2{
+    position: absolute;
+    margin-top: 477px;
+    left: 201px;
+    text-align: center;
+    color: #f8ae02;
+    font-size: 27px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+    border-spacing: 45px;
+    border-radius: 50%;
+    width: 171px;
+    height: 169px;
+    padding-top: 29px;
+}
+.section3-circle1-text3{
+    position: absolute;
+    margin-top: 678px;
+    left: 15px;
+    text-align: center;
+    color: #f8ae02;
+    font-size: 27px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+    border-spacing: 45px;
+    border-radius: 50%;
+    width: 171px;
+    height: 169px;
+    padding-top: 29px;
+}
+
+.section3-circle1-text4{
+	 position: absolute;
+    margin-top: 678px;
+    left: 201px;
+    text-align: center;
+    color: #f8ae02;
+    font-size: 27px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+    border-spacing: 45px;
+    border-radius: 50%;
+    width: 171px;
+    height: 169px;
+    padding-top: 29px;}
+.section3-design3{
+	  margin-left:50px;
+    margin-top: 874px;
+    width: 70%;
+}
+.section3-title3{
+      position: absolute;
+    color: #f8ae02;
+    font-size: 42px;
+    font-family: 'Marck Script', cursive;
+    margin-top: 1157px;
+    left: 95px;
+}
+.section3-text3{
+     position: absolute;
+    font-size: 20px;
+    margin-top: 1210px;
+    color: white;
+    text-align: center;
+    left: 30px;
+}
+.order-btn-section4{
+		position: absolute;
+    margin-top: 1309px;
+    left: 72px;
+    width: 250px;
+
+}
+.design4{	 
+	height: 218px;
+}
+.section4-text{
+position: absolute;
+    margin-top: 29px;
+    left: 0px;
+    text-align: center;
+    font-size: 19px;
+}
+.section4-title	{
+      position: absolute;
+    margin-top: 146px;
+    left: 131px;
+    font-size: 22px;
+    font-family: 'Lobster Two', sans-serif;
+}
+.design5{
+	background-image: none;
+	 background-repeat: no-repeat; 
+	 background-size: 100%;
+	 height: 270px;
+}
+
+.section5-title1{
+ position: absolute;
+    margin-top: auto;
+    left: 129px;
+    font-size: 33px;
+    font-family: 'Marck Script', cursive;
+    font-weight: 600;
+}
+.section5-text1{
+	position: absolute;
+    margin-top: 42px;
+    left: 5px;
+    font-size: 22px;
+    text-align: center;
+}
+ .form-control{
+ 		position: absolute;
+    left: 34px;
+    margin-top: 200px;
+    /*width: 25%;*/
+    width: 57% !important;
+ }
+ .subscribe-btn-section3{
+ 		     position: absolute;
+    left: 257px;
+    margin-top: 200px;
+ }
+
+}
